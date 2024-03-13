@@ -4,7 +4,7 @@ let background="https://t3.ftcdn.net/jpg/05/54/51/44/360_F_554514472_8W2lWR9DWu3
 const Hero = () => {
   return (
     <section style={{background:{background}}} className='hero'>
-     <h1>CLICKOSHOT</h1>
+     <h1 className='heaading'>CLICKOSHOT</h1>
      <p>Get in touch with nature photography</p>
     </section> 
   )
