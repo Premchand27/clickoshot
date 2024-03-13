@@ -1,0 +1,65 @@
+
+
+
+.movie{
+display: grid;
+grid-template-columns: repeat(3,1fr);  
+gap: 1em;
+}
+
+.eachmovie{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.eachmovie img{
+  border-radius:12px;
+  height:34vh;
+  width:34vw;
+  
+}
+
+.heading{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-size:4em;
+}
+
+@media screen and (max-width:576px){
+  .movie{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);  
+    
+  }
+  .eachmovie img{
+    border-radius: 9px;
+    width: 100vw;
+    max-height: 50vh;
+    
+  }
+  .heading{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size:2em;
+  }
+ 
+}
+
+.timer{
+  text-align: center;
+  margin: 2em;
+  padding: 1em;
+  border-color: black;
+}
+.hero{
+  display: block;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background:"https://t3.ftcdn.net/jpg/05/54/51/44/360_F_554514472_8W2lWR9DWu3mHjv0m3i9dcfHTh1Cc4Ue.webp"
+}
+
+
