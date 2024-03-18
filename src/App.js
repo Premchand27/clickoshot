@@ -23,7 +23,7 @@ const data=[
 const App1 = () => {
   return (
     <div>
-      <h1 className='heading'>My Recent Clicks</h1>,
+      <h1 className='heading'id="clicks">My Recent Clicks</h1>,
     <div className='movie'>
       
       {
