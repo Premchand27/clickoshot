@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css'
-
 const data=[
   {imgUrl:"https://i.ibb.co/wz4NMM9/14.jpg"},
   {imgUrl:"https://i.ibb.co/XkqK1s1/17.jpg"},
