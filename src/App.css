@@ -1,10 +1,10 @@
 
 
 .hero{
-  height: 100vh;
+  height: 60vh;
   background-color: aqua;
   background: url("https://images.pexels.com/photos/13827133/pexels-photo-13827133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-  background-size: cover;
+  background-size:100%;
   width: auto;
 }
 .movie{
@@ -75,7 +75,7 @@ gap: 1em;
   }
 
   .hero{
-    height: 100vh;
+    height: 40vh;
     background-color: aqua;
     background: url("https://images.pexels.com/photos/13827133/pexels-photo-13827133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
