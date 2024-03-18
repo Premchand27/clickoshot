@@ -5,7 +5,7 @@ const data=[
   {imgUrl:"https://i.ibb.co/wz4NMM9/14.jpg"},
   {imgUrl:"https://i.ibb.co/XkqK1s1/17.jpg"},
   {imgUrl:"https://i.ibb.co/59M2Pfv/18.jpg"},
-  {imgUrl:"ttps://i.ibb.co/SKppSgq/19.jpg"},
+  {imgUrl:"https://i.ibb.co/SKppSgq/19.jpg"},
   {imgUrl:"https://i.ibb.co/jVRzr3v/13.jpg"},
   {imgUrl:"https://i.ibb.co/RTMqQkx/1.jpg"},
   {imgUrl:"https://i.ibb.co/g4wRC8Y/2.jpg"},
