@@ -11,8 +11,8 @@ function CollapsibleExample() {
             <img
               alt=""
               src="https://cdn.pixabay.com/photo/2023/09/18/13/12/camera-8260573_1280.jpg"
-              width="30"
-              height="30"
+              width="40"
+              height="40"
               className="d-inline-block align-top"
               style={{borderRadius:"50%"}}
             />{' '}

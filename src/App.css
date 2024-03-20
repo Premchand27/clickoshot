@@ -13,7 +13,7 @@
 .movie{
 display: grid;
 grid-template-columns: repeat(3,1fr);  
-gap: 0.4em;
+gap: 0.5em;
 }
 
 .eachmovie{
