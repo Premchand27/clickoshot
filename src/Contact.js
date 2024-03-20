@@ -6,7 +6,7 @@ function BasicExample() {
   return (
     <div className='bg'>
     <section className='contact' id="contact">
-        <h2>Contact Me</h2>
+        <h2 style={{color:"aquamarine"}}>Contact Me</h2>
     <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Email address</Form.Label>
