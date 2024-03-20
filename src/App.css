@@ -1,5 +1,8 @@
 
 
+.bg{
+  background-color: black;
+}
 .hero{
   height: 60vh;
   background-color: aqua;
@@ -97,6 +100,45 @@ gap: 0.4em;
   }
 }
 
+.contact{
+margin-left: auto;
+margin-right: auto;
+width: 60vw;
+margin: 2em;
+background-color: black;
+color: white;
+padding: 2em;
+align-items: center;
+justify-content: center;
+}
 
+.footer{
+  color: white;
+  padding: 0.6em;
+  font-size: 2em;
+  text-align: center;
+  width:auto;
+  background-color: white;
+  color: black;
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+}
+
+@media screen and (max-width:576px) {
+  .footer{
+    color: white;
+    padding: 0.6em;
+    font-size: 1em;
+    font-weight: 700;
+    text-align: center;
+    width:auto;
+    background-color: white;
+    color: black;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  
+  }
+}
 
 

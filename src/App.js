@@ -22,6 +22,7 @@ const data=[
 
 const App1 = () => {
   return (
+    <section className='bg'>
     <div>
       <h1 className='heading'id="clicks">My Recent Clicks</h1>,
     <div className='movie'>
@@ -34,6 +35,7 @@ const App1 = () => {
       }
     </div>
     </div>
+    </section>
   )
 }
 
