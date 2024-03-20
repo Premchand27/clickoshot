@@ -4,7 +4,7 @@ import "./App.css";
 const Footer = () => {
   return (
     <section className='footer'>
-        <span>Designed by Premchand</span>
+        <span><b>Designed by Premchand</b></span>
     </section>
   )
 }

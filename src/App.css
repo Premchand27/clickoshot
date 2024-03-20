@@ -121,8 +121,6 @@ justify-content: center;
   background-color: white;
   color: black;
   margin-top: 1em;
-  margin-bottom: 1em;
-
 }
 
 @media screen and (max-width:576px) {
@@ -139,6 +137,35 @@ justify-content: center;
     margin-bottom: 1em;
   
   }
+  .about{
+    padding: 1em;
+    margin: 1em;
+    font-size:0.9em;
+  }
+  .about h2{
+    color: aquamarine;
+    text-align: center;
+  }
+  
+  .about p{
+    color:white;
+    font-size:1.2em;
+    
+  }
 }
 
+
+.about{
+  padding: 1.4em;
+}
+.about h2{
+  color: aquamarine;
+  text-align: center;
+}
+
+.about p{
+  color:white;
+  font-size: 1.3em;
+  
+}
 

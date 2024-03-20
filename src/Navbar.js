@@ -14,20 +14,24 @@ function CollapsibleExample() {
               width="30"
               height="30"
               className="d-inline-block align-top"
+              style={{borderRadius:"50%"}}
             />{' '}
             Clickoshot
           </Navbar.Brand></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features">Home</Nav.Link>
-            <Nav.Link href="#pricing">Pics Collection</Nav.Link>
+            <Nav.Link href="#hero"><b>Home</b></Nav.Link>
+            <Nav.Link href="#contact"><b>Contact</b></Nav.Link>
+
             
           </Nav>
           <Nav>
-            <Nav.Link href="#deets">More deets</Nav.Link>
-            <Nav.Link eventKey={2} href="#memes">
-              Dank memes
+            <Nav.Link eventKey={2} href="#clicks">
+            <b>Pics Collection</b>
+            </Nav.Link>
+            <Nav.Link eventKey={2} href="#contact">
+              <b>Contact</b>
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

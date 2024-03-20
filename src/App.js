@@ -22,7 +22,7 @@ const data=[
 
 const App1 = () => {
   return (
-    <section className='bg'>
+    <section className='bg' id='clicks'>
     <div>
       <h1 className='heading'id="clicks">My Recent Clicks</h1>,
     <div className='movie'>

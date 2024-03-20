@@ -5,7 +5,7 @@ import './App.css';
 function BasicExample() {
   return (
     <div className='bg'>
-    <section className='contact'>
+    <section className='contact' id="contact">
         <h2>Contact Me</h2>
     <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">

@@ -8,6 +8,7 @@ import Hero from './Hero';
 import CollapsibleExample from './Navbar';
 import BasicExample from './Contact';
 import Footer from './Footer';
+import About from './About';
 
 
 
@@ -18,6 +19,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
         <section className='bg'>
     <CollapsibleExample/>
     <Hero/>
+    <About/>
     <App1/>
     <BasicExample/>
     <Footer/>
